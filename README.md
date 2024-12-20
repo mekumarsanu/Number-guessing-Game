@@ -3,7 +3,7 @@
 ## A Simple Number Guessing Game. You will be given 5 chances to guess a number...
 <br>
 
-## [View Demo](https://prashantsingh20.github.io/Number-Guessing-Game/)
+## [View Demo](https://singh20.github.io/Number-Guessing-Game/)
 
 If you have any crazy idea then please pull request...
 
