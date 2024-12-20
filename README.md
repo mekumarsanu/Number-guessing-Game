@@ -1,5 +1,5 @@
 # Number Guessing Game
-## Hi, I'm Prashant 
+## Hi, I'm Kumar Sanu
 ## A Simple Number Guessing Game. You will be given 5 chances to guess a number...
 <br>
 
@@ -58,18 +58,18 @@ const randomNum = parseInt((Math.random() * 100));
 
 
  ## How to reach me?
- [ ![ForTheBadge makes-people-smile](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantsingh.prashant20@gmail.com)
+ [ ![ForTheBadge makes-people-smile](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mekumarsanu@gmail.com)
  <hr>
  <br>
 
-[![Follower](https://img.shields.io/github/followers/prashantsingh20?style=social)](https://github.com/prashantsingh20)
+[![Follower](https://img.shields.io/github/followers/mekumarsanu?style=social)](https://github.com/mekumarsanu)
  <hr>
  <p float="left">
 
-[![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/prashantsingh20)
-[ ![ForTheBadge makes-people-smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/prashantsingh20)
+[![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/mekumarsanu)
+[ ![ForTheBadge makes-people-smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/mekumarsanu)
 
 </p>
 
-[![alttext](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prashantsingh20)
+[![alttext](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mekumarsanu)
 ![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)
